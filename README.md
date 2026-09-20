@@ -1,3 +1,15 @@
+---
+
+## 🚀 Open Project in Google Colab
+
+### 👉 [Open MNIST Project in Google Colab](https://colab.research.google.com/drive/1WRpOy1ZD91GfhJ7Y3eXEQeOAZ1sHtkvm?usp=sharing)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WRpOy1ZD91GfhJ7Y3eXEQeOAZ1sHtkvm?usp=sharing)
+
+---
+
+
+
 ## 📌 Project Overview
 
 This project implements a simple neural network using **TensorFlow/Keras** to classify handwritten digits from **0 to 9** using the MNIST dataset.
@@ -17,15 +29,7 @@ The project covers the complete machine learning workflow, including:
 - Neural network experiment
 - Model performance comparison
 
----
 
-## 🚀 Open Project in Google Colab
-
-### 👉 [Open MNIST Project in Google Colab](https://colab.research.google.com/drive/1WRpOy1ZD91GfhJ7Y3eXEQeOAZ1sHtkvm?usp=sharing)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WRpOy1ZD91GfhJ7Y3eXEQeOAZ1sHtkvm?usp=sharing)
-
----
 
 ## 📊 Dataset
 
