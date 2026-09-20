@@ -1,10 +1,3 @@
-# MNIST Handwritten Digit Classification Using Neural Network
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Keras](https://img.shields.io/badge/Keras-Neural%20Network-red)
-![MNIST](https://img.shields.io/badge/Dataset-MNIST-green)
-
 ## 📌 Project Overview
 
 This project implements a simple neural network using **TensorFlow/Keras** to classify handwritten digits from **0 to 9** using the MNIST dataset.
